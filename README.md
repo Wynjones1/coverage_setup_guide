@@ -4,7 +4,7 @@ Guide detailing how to setup coverage for gcc/clang.
 ## Compile Flags
 
 * gcc
-..* -fprofile-arcs
-..* -ftest-coverage
+    * -fprofile-arcs
+    * -ftest-coverage
 * clang
-..* -fcoverage
+    * -fcoverage
